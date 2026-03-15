@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "generate:test-output": "node scripts/generate-test-output.js --html chatgpt.html --out test-output.md"
+  },
+  "dependencies": {
+    "jsdom": "^29.0.0"
+  }
+}
